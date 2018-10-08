@@ -24,12 +24,6 @@ Out of 20 domains:
         Bad:    18
         Good Domains:
 
-
-
-                 All done!
-
-
-
 real    2m30.929s
 user    0m0.046s
 sys     0m0.063s
